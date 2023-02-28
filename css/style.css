@@ -1,0 +1,70 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+}
+
+a {
+    color: #107777;
+    text-decoration: none;
+}
+
+hr {
+    color: #59b687;
+}
+
+header {
+    text-align: center;
+}
+
+.logo-image {
+    max-width: 15%;
+    margin: 20px;
+}
+
+.simply-fab {
+    background-color: #fffbf1;
+    color: #107777;
+    padding: 2px 0;
+    border-top: 1px solid orange;
+}
+
+.simply-fab-bold {
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+.focaccia-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.img-caption {
+    color: lightslategray;
+}
+
+.featured-in-container {
+    border-left: 1px solid orange;
+    padding-left: 2px;
+}
+
+.featured-in {
+    color: #b5460f;
+    text-decoration: none;
+}
+
+.stand-out {
+    text-decoration: underline;
+}
